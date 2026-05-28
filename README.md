@@ -119,6 +119,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 ## Proxy & Anti-Bot Infrastructure
 
 - [Bright Data](https://brightdata.com/) - 150M+ proxies, Web Unblocker, browser cloud.
+- [Geonode](https://geonode.com) — Rotating residential + datacenter proxies and a Firecrawl-compatible scraper API.
 - [Oxylabs](https://oxylabs.io/) - Residential, datacenter, and ISP proxies plus Web Unblocker.
 - [Decodo (Smartproxy)](https://decodo.com/) - Residential proxies and scraping APIs.
 - [NetNut](https://netnut.io/) - ISP and residential proxy network.
