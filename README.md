@@ -124,6 +124,7 @@ Search APIs that return structured, LLM-friendly results with full-page content.
 - [NetNut](https://netnut.io/) - ISP and residential proxy network.
 - [ZenRows](https://www.zenrows.com/) - Anti-bot proxy and scraping API.
 - [ScraperAPI](https://www.scraperapi.com/) - Proxy rotation and CAPTCHA handling.
+- [Pangolinfo](https://www.pangolinfo.com/) - Amazon Scraper API; product, review, and bestseller endpoints with 60 free credits/month.
 
 ## Datasets
 
